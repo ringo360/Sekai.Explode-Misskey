@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "misskey-js": "^0.0.16",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.6"
+  },
+  "name": "Sekai.Explode-Misskey",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ringo360/Sekai.Explode-Misskey.git",
+  "author": "ringo360 <105296365+ringo360@users.noreply.github.com>",
+  "license": "MIT"
+}
